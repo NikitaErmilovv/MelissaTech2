@@ -2,4 +2,4 @@ site=dark-detail
 brand=Dark Detailing
 prod=https://melissa-tech.ru/dark-detail/
 deploy=git-push-timeweb-hook
-deploy-trigger=dark-detail-gallery-portfolio-20261022
+deploy-trigger=redploy-melissa-tech-ru-20261022
