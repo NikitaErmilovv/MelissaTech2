@@ -1,0 +1,4 @@
+site=melissa-tech.ru
+repo=MelissaTech2
+deploy=git-push-timeweb-hook
+deploy-trigger=init-20261022
