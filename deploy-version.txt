@@ -1,4 +1,4 @@
 site=melissa-tech.ru
 repo=MelissaTech2
 deploy=git-push-timeweb-hook
-deploy-trigger=dark-detail-copy-20261022
+deploy-trigger=dark-detail-gallery-portfolio-20261022
