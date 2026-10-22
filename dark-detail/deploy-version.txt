@@ -1,0 +1,5 @@
+site=dark-detail
+brand=Dark Detailing
+prod=https://melissa-tech.ru/dark-detail/
+deploy=git-push-timeweb-hook
+deploy-trigger=dark-detail-copy-20261022

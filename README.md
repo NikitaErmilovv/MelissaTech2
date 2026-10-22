@@ -28,7 +28,7 @@ deploy=git-push-timeweb-hook
 
 | Папка | Описание | Прод |
 |-------|----------|------|
-| — | Пока пусто | — |
+| `dark-detail/` | Dark Detailing, Оренбург (копия с `dark-detailing/`) | https://melissa-tech.ru/dark-detail/ |
 
 ## Локальная разработка
 

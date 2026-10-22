@@ -1,0 +1,24 @@
+# Dark Detailing — Оренбург
+
+Статический сайт детейлинг-студии Dark Detailing.
+
+- **Адрес:** г. Оренбург, ул. Транспортная, 6/1
+- **Телефон:** +7 (909) 615-56-66
+- **2ГИС:** https://2gis.ru/orenburg/firm/70000001081193888
+
+## Локальный запуск
+
+```bash
+cd dark-detail
+python server.py
+```
+
+Открыть: http://127.0.0.1:8089/
+
+Или двойной клик по `start.bat`.
+
+## Прод (репозиторий MelissaTech2)
+
+https://melissa-tech.ru/dark-detail/
+
+Копия прототипа из `Melissa-tech.ru/dark-detailing/` (оригинал на старом пути не трогаем).
